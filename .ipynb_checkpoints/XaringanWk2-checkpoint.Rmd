@@ -23,8 +23,7 @@ output:
 - The Sentinel-2 satellite carries a multispectral imager (MSI) with a height of 786km, which can cover 13 spectral bands and a width of 290km. The ground resolutions are 10m, 20m and 60m respectively, and the revisit period of one satellite is 10 days, and the revisit period of two satellites is 5 days. From visible light and near-infrared to short-wave infrared, it is with different spatial resolutions. Among optical data, Sentinel-2 data is the only one that contains three bands in the red edge range, which is very effective for monitoring vegetation health information.
 ---
 
-background-image: url(https://th.bing.com/th/id/OIP.nxXspttkxutw_wN7i9O2CAHaFj?w=3000&h=1500&c=100&r=0&o=5&pid=1.7)
-
+background-image: url(https://th.bing.com/th/id/OIP.aEMHSy1TTmExHdLMNj4REgHaEK?w=304&h=180&c=7&r=0&o=5&pid=1.7)
 
 .footnote[ *Sentinel-2 satellite simulation image]
 
